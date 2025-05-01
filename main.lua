@@ -298,7 +298,6 @@ while true do
 
     if toggled.AutoSell then
         local min, max = getBubblesBlown()
-        print(min, max)
         if min >= max then
             sellBubbles()
         end
