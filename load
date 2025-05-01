@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NospacebarsAllowed69/bubblegum/refs/heads/main/main.lua'))()
